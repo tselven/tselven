@@ -1,6 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://tselven13.github.io/)
 <h1 align="center">Hi 👋, I'm Thamilselven</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tselven13&label=Profile%20views&color=0e75b6&style=flat" alt="tselven13" /> </p>
 
@@ -23,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tselven13&show_icons=true&locale=en" alt="tselven13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tselven13&" alt="tselven13" /></p>
-
